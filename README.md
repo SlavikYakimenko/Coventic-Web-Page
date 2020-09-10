@@ -1,3 +1,3 @@
 # Coventic-Web-Page
 
-![alt tag](Coventic WebPage.png )
+[alt tag](Coventic WebPage.png )
