@@ -1,3 +1,4 @@
 # Coventic-Web-Page
 
-[alt tag](CoventicWebPage.png)
+![alt text](CoventicWebPage.png "Preview image")
+
